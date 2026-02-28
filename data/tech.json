@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Bootstrap",
+    "logo": "bootstrap.png",
+    "link": "https://getbootstrap.com"
+  },
+  {
+    "name": "Tailwind",
+    "logo": "tailwind.png",
+    "link": "https://tailwindcss.com"
+  },
+  {
+    "name": "ShadCN",
+    "logo": "shadcn.png",
+    "link": "https://ui.shadcn.com"
+  },
+  {
+    "name": "Express.js",
+    "logo": "express.png",
+    "link": "https://expressjs.com"
+  },
+  {
+    "name": "Node.js",
+    "logo": "node.png",
+    "link": "https://nodejs.org/en"
+  },
+  {
+    "name": "Next.js",
+    "logo": "nextjs.png",
+    "link": "https://nextjs.org"
+  },
+  {
+    "name": "Vite",
+    "logo": "vite.png",
+    "link": "https://vite.dev"
+  },
+  {
+    "name": "React",
+    "logo": "react.png",
+    "link": "https://react.dev"
+  },
+  {
+    "name": "Prisma",
+    "logo": "prisma.png",
+    "link": "https://www.prisma.io"
+  },
+  {
+    "name": "Supabase",
+    "logo": "supabase.png",
+    "link": "https://supabase.com"
+  },
+  {
+    "name": "PostgreSQL",
+    "logo": "postgre.png",
+    "link": "https://www.postgresql.org"
+  },
+  {
+    "name": "JavaScript",
+    "logo": "javascript.png",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "name": "TypeScript",
+    "logo": "typescript.png",
+    "link": "https://www.typescriptlang.org"
+  }
+]

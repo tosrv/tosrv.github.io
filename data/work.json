@@ -1,0 +1,27 @@
+[
+  {
+    "logo": "luckland.png",
+    "role": "Interior Finishing Technical Intern",
+    "company": "Luckland",
+    "duration": "Jul 2022 - Jun 2025",
+    "location": "Tokyo, Japan",
+    "description": "Managed daily project documentation and coordinated interior finishing tasks to meet deadlines. Ensured quality standards were maintained through regular inspections and team collaboration."
+  },
+  {
+    "logo": "ldp.png",
+    "role": "Network Engineer Intern",
+    "company": "PT. Lintas Data Prima",
+    "duration": "Feb 2018 - May 2018",
+    "location": "Madiun, East Java",
+    "description": "Configured Ubiquiti wireless devices and assisted in network tower installations. Monitored and maintained network infrastructure to ensure stable connectivity."
+  },
+  {
+    "logo": "telkom.png",
+    "role": "Network Engineer Intern",
+    "company": "BLC Telkom Klaten",
+    "duration": "Sep 2017 - Dec 2017",
+    "location": "Klaten, Central Java",
+    "description": "Learning Linux server installation and configured Mikrotik and Cisco devices. Documented technical setups and gained hands-on experience in networking fundamentals.",
+    "link": "https://rahmattomy.blogspot.com"
+  }
+]

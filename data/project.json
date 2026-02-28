@@ -1,0 +1,35 @@
+[
+  {
+    "name": "LinkHub",
+    "image": "linkhub.gif",
+    "description": "LinkHub is a “link-in-bio” platform that lets you organize and manage your links, whether they’re social media profiles, websites, or other content. Users can also create multiple profiles under a single account, making it easy to separate personal, professional, or themed links.",
+    "tech": ["Supabase", "Express.js", "Next.js", "Tailwind", "ShadCN"],
+    "github": "https://github.com/faqih28alam/Insta-Card",
+    "link": "https://link-hub-card.vercel.app"
+  },
+
+  {
+    "name": "Yellow Store",
+    "image": "yellowstore.gif",
+    "tech": ["Supabase", "Next.js", "Tailwind", "ShadCN", "Midtrans"],
+    "description": "Yellow Store is a mini e-commerce application built with Next.js and Supabase, featuring Midtrans payment integration, realtime order updates, and a secure admin dashboard with Supabase authentication.",
+    "github": "https://github.com/tosrv/Mini-Store",
+    "link": "https://yellowstore-mu.vercel.app"
+  },
+  {
+    "name": "JobMatchAI",
+    "image": "jobmatch.gif",
+    "description": "Job Match AI is an intelligent application that helps match candidates with suitable jobs using AI, featuring a fast backend, real-time updates, and efficient data management.",
+    "tech": ["Supabase", "Next.js", "Tailwind", "ShadCN", "AI/ML"],
+    "github": "https://github.com/tosrv/JobMatchAI",
+    "link": "https://job-match-ai-navy.vercel.app"
+  },
+  {
+    "name": "Circle App",
+    "image": "circle.gif",
+    "description": "Circle is a social media app that lets you create your own circle, follow friends, and share threads. Perfect for communities and interest groups.",
+    "tech": ["Express.js", "Prisma", "Vite", "React", "Tailwind", "ShadCN"],
+    "github": "https://github.com/tosrv/DW-circle-app",
+    "link": "https://app-circle.netlify.app"
+  }
+]
