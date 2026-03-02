@@ -11,7 +11,7 @@ import Link from "next/link";
 export default function Work() {
   return (
     <section id="work">
-      <h2 className="text-3xl font-bold text-center">Work Experience</h2>
+      <h2 className="text-3xl font-bold text-center dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">Work Experience</h2>
 
       <div className="my-20 max-w-3xl mx-auto">
         {work.map((item) => (

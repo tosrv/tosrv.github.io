@@ -33,7 +33,9 @@ export default function Hero() {
           <div className="space-y-2">
             <h2>
               Hi, I am <br />
-              <span className="text-4xl font-bold">{intro.name}</span>
+              <span className="text-4xl font-bold dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">
+                {intro.name}
+              </span>
             </h2>
             <div className="flex gap-1 items-center">
               <FaLocationDot className="text-red-600" />
@@ -83,7 +85,7 @@ export default function Hero() {
           </div>
 
           <div className="relative w-54 md:w-92 aspect-square my-20">
-            <div className="absolute inset-0 rounded-full overflow-hidden bg-primary z-20">
+            <div className="absolute inset-0 rounded-full overflow-hidden bg-primary z-20 dark:bg-linear-to-tl dark:from-primary dark:to-purple-500">
               <div className="absolute inset-0 scale-150">
                 <Image
                   src="/avatar/profile.png"
@@ -108,7 +110,7 @@ export default function Hero() {
         </div>
 
         <div className="flex-1 lg:max-w-sm flex flex-col justify-center z-20">
-          <h2 className="text-3xl font-semibold">{intro.role}</h2>
+          <h2 className="text-3xl font-semibold dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">{intro.role}</h2>
           <article className="mt-2 text-muted-foreground font-semibold">
             {intro.introduction}
           </article>

@@ -7,7 +7,7 @@ import { LuGraduationCap } from "react-icons/lu";
 export default function Education() {
   return (
     <section id="education">
-      <h2 className="text-3xl font-bold text-center">Education</h2>
+      <h2 className="text-3xl font-bold text-center dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">Education</h2>
 
       <div className="my-20 max-w-2xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
         {education.map((item) => (

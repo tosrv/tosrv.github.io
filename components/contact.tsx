@@ -7,7 +7,7 @@ import { SiWhatsapp } from "react-icons/si";
 export default function Contact() {
   return (
     <div className="flex flex-col gap-4 items-center justify-center my-20">
-      <h2 className="font-bold text-3xl text-center">
+      <h2 className="font-bold text-3xl text-center dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">
         Let&apos;s work on something meaningful
       </h2>
       <span className="text-center text-muted-foreground font-semibold">

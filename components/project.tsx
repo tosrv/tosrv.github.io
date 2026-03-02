@@ -17,7 +17,7 @@ import { FiExternalLink } from "react-icons/fi";
 export default function Project() {
   return (
     <section id="project">
-      <h2 className="text-3xl font-bold text-center">Project</h2>
+      <h2 className="text-3xl font-bold text-center dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">Project</h2>
 
       <div className="my-20 max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {project.map((item) => (
@@ -39,7 +39,7 @@ export default function Project() {
               <CardDescription>{item.description}</CardDescription>
               <div className="flex flex-wrap gap-2">
                 {item.tech.map((item) => (
-                  <Badge key={item} className="bg-primary">
+                  <Badge key={item} className="bg-gray-400 dark:bg-primary">
                     <span className="font-bold">{item}</span>
                   </Badge>
                 ))}
