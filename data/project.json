@@ -1,5 +1,13 @@
 [
   {
+    "name": "U-Short",
+    "image": "u-short.gif",
+    "description": "U-Short is a simple and fast URL Shortener and QR Code Generator built with Golang. The application uses server-side rendering with Go templates and HTMX for dynamic interactions without full page reloads.",
+    "tech": ["Golang", "SQLite", "HTMX","Tailwind"],
+    "github": "https://github.com/tosrv/u-short",
+    "link": "https://u-short.fly.dev"
+  },
+  {
     "name": "LinkHub",
     "image": "linkhub.gif",
     "description": "LinkHub is a “link-in-bio” platform that lets you organize and manage your links, whether they’re social media profiles, websites, or other content. Users can also create multiple profiles under a single account, making it easy to separate personal, professional, or themed links.",
