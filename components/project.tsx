@@ -17,7 +17,7 @@ import { FiExternalLink } from "react-icons/fi";
 export default function Project() {
   return (
     <section id="project">
-      <h2 className="text-3xl font-bold text-center dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">Project</h2>
+      <h2 className="text-3xl font-bold text-center bg-linear-to-l from-primary to-orange-600 dark:to-purple-500 bg-clip-text text-transparent">Project</h2>
 
       <div className="my-20 max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {project.map((item) => (
@@ -51,7 +51,7 @@ export default function Project() {
                     href={item.github}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-sm font-semibold hover:text-blue-400 hover:font-medium"
+                    className="text-sm hover:text-blue-400 hover:font-medium"
                   >
                     Github Repo
                   </Link>
@@ -63,7 +63,7 @@ export default function Project() {
                     href={item.link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-sm font-semibold hover:text-blue-400 hover:font-medium"
+                    className="text-sm hover:text-blue-400 hover:font-medium"
                   >
                     Live Preview
                   </Link>

@@ -11,7 +11,7 @@ import Link from "next/link";
 export default function Tech() {
   return (
     <section id="tech">
-      <h2 className="text-3xl font-bold text-center dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">
+      <h2 className="text-3xl font-bold text-center bg-linear-to-l from-primary to-orange-600 dark:to-purple-500 bg-clip-text text-transparent">
         Technologies I&apos;ve Worked With
       </h2>
       <div className="relative p-10 my-10 hidden md:block">

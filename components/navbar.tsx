@@ -60,7 +60,7 @@ export default function Navbar() {
   };
 
   return (
-    <div className="sticky top-0 z-50 w-full backdrop-blur-lg bg-white/10">
+    <div className="sticky top-0 z-50 w-full backdrop-blur-lg bg-yellow-200/10">
       <div className="container mx-auto flex items-center justify-between py-2 px-4">
         <section className="flex gap-2">
           <button

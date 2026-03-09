@@ -33,7 +33,7 @@ export default function Hero() {
           <div className="space-y-2">
             <h2>
               Hi, I am <br />
-              <span className="text-4xl font-bold dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">
+              <span className="text-4xl font-bold bg-linear-to-l from-primary to-orange-600 dark:to-purple-500 bg-clip-text text-transparent">
                 {intro.name}
               </span>
             </h2>
@@ -110,7 +110,7 @@ export default function Hero() {
         </div>
 
         <div className="flex-1 lg:max-w-sm flex flex-col justify-center z-20">
-          <h2 className="text-3xl font-semibold dark:bg-linear-to-l dark:from-primary dark:to-purple-500 dark:bg-clip-text dark:text-transparent">{intro.role}</h2>
+          <h2 className="text-3xl font-semibold bg-linear-to-l from-primary to-orange-600 dark:to-purple-500 bg-clip-text text-transparent">{intro.role}</h2>
           <article className="mt-2 text-muted-foreground font-semibold">
             {intro.introduction}
           </article>
