@@ -1,5 +1,13 @@
 [
   {
+    "logo": "dumbways.png",
+    "role": "Full Stack Developer",
+    "company": "Dumbways Indonesia",
+    "duration": "Dec 2025 - Present",
+    "location": "South Tangerang, Banten",
+    "description": "Developed full stack web applications using React.js, Next.js, and Express.js. Built RESTful APIs and implemented backend logic using Node.js and Express. Used Git and GitHub for version control and collaborative development."
+  },
+  {
     "logo": "luckland.png",
     "role": "Interior Finishing Technical Intern",
     "company": "Luckland",
