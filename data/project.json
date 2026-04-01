@@ -37,7 +37,7 @@
     "image": "circle.gif",
     "description": "Circle is a social media app that lets you create your own circle, follow friends, and share threads. Perfect for communities and interest groups.",
     "tech": ["Express.js", "Prisma", "Vite", "React", "Tailwind", "ShadCN"],
-    "github": "https://github.com/tosrv/DW-circle-app",
-    "link": "https://app-circle.netlify.app"
+    "github": "https://github.com/tosrv/circle-app",
+    "link": "https://appcircle.netlify.app"
   }
 ]
