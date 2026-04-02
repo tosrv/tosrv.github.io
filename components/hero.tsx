@@ -68,19 +68,15 @@ export default function Hero() {
             </div>
 
             <div className="flex justify-center p-4">
-              <Link
-                href={intro.resume}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <a href={intro.cv}>
                 <Button
                   size="sm"
                   className="font-bold bg-gray-700 hover:bg-gray-800 dark:bg-primary cursor-pointer dark:hover:bg-primary/90"
                 >
                   <CiFileOn />
-                  Resume
+                  Download CV
                 </Button>
-              </Link>
+              </a>
             </div>
           </div>
 
@@ -110,7 +106,9 @@ export default function Hero() {
         </div>
 
         <div className="flex-1 lg:max-w-sm flex flex-col justify-center z-20">
-          <h2 className="text-3xl font-semibold bg-linear-to-l from-primary to-orange-600 dark:to-purple-500 bg-clip-text text-transparent">{intro.role}</h2>
+          <h2 className="text-3xl font-semibold bg-linear-to-l from-primary to-orange-600 dark:to-purple-500 bg-clip-text text-transparent">
+            {intro.role}
+          </h2>
           <article className="mt-2 text-muted-foreground font-semibold">
             {intro.introduction}
           </article>
