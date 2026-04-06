@@ -30,13 +30,13 @@ export default function Contact() {
         <span className="hidden md:inline">|</span>
 
         <Link
-          href="https://wa.me/6281553960011"
+          href="https://wa.me/6285138592489"
           target="_blank"
           rel="noopener noreferrer"
           className="flex gap-1 items-center"
         >
           <SiWhatsapp />
-          <span className="hover:text-blue-500">+62 815-5396-0011</span>
+          <span className="hover:text-blue-500">+62 851-3859-2489</span>
         </Link>
       </div>
     </div>
